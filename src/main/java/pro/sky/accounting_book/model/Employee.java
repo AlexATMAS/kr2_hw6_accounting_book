@@ -3,8 +3,8 @@ package pro.sky.accounting_book.model;
 import java.util.Objects;
 
 public class Employee {
-    private String firstName ;            // Имя сотрудника;
-    private String lastName;         // Фамилия сотрудника;
+    private String firstName ;      // Имя сотрудника;
+    private String lastName;      // Фамилия сотрудника;
 
     public Employee(String firstName, String lastName) {
         this.firstName = firstName;
